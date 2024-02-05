@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2024 Ander Aristondo Gonzalez
+Copyright (c) 2024 Ander Aristondo Gonzalez, Beñat Kortabarria Berasategi, Josu Fernandez Fernandez, Maialen Galparsoro Goicoechea, Olatz Arrastia Blanco
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
